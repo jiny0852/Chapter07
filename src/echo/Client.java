@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 public class Client {
 
-	public static void main(String[] args) throws IOExcep   tion {
+	public static void main(String[] args) throws IOException {
 		
 		//종이컵 전화기
 		Socket socket = new Socket();
